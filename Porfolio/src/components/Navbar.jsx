@@ -88,6 +88,7 @@ const NavBar = () => {
     }
 
     return (
+        
         <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
             <Container>
                 <div className="navbar-container">
